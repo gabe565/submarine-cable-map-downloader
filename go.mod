@@ -1,6 +1,6 @@
 module github.com/gabe565/subcablemap-dl
 
-go 1.23.1
+go 1.23.2
 
 require (
 	github.com/charmbracelet/log v0.4.0
